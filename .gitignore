@@ -105,3 +105,6 @@ venv.bak/
 
 # online materials from website
 /onine-materials
+
+# misc
+.DS_Store
