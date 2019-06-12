@@ -15,3 +15,5 @@ Below are my solutions for the practice projects at the end of each chapter.
 - Chapter 03 - Functions
   - [The Collatz Sequence](./projects/collatz.py)
   - [The Collatz Sequence with `try` and `except`](./projects/collatz-exception.py)
+- Chapter 04 - Lists
+  - [Comma Code](./projects/comma-code.py)
