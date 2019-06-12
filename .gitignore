@@ -60,6 +60,10 @@ db.sqlite3
 instance/
 .webassets-cache
 
+# PyCharm stuf
+.idea/
+.idea/codeStyles/
+
 # Scrapy stuff:
 .scrapy
 
