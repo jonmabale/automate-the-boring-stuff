@@ -1,4 +1,4 @@
-# Comma Code¶
+# Comma Code
 
 # Say you have a list value like this:
 
