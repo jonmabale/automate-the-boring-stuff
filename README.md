@@ -22,3 +22,5 @@ Below are my solutions for the practice projects at the end of each chapter.
   - [Picture Grid](./projects/picture-grid.py)
 - Chapter 05 - Dictionaries and Structuring Data
   - [Inventory](./projects/inventory.py)
+- Chapter 06 - Manipulating Strings
+  - [Project: Password Locker](/projects/pw.py)

@@ -1,4 +1,6 @@
-# The Collatz Sequence
+#! /usr/local/bin/env python3
+
+# collatz.py - The Collatz Sequence
 
 # Write a function named collatz() that has one parameter named number.
 # If number is even, then collatz() should print number // 2 and return

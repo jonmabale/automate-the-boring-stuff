@@ -1,4 +1,6 @@
-# Character Picture Grid
+#! /usr/local/bin/env python3
+
+# picture-grid.py
 
 # Say you have a list of lists where each value in the inner lists is a
 # one-character string, like this:
