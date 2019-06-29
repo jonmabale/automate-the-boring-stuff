@@ -18,8 +18,8 @@ def print_table(table):
         inner_list += 1
 
     # Iterate over inner_lists and print each corresponding word from
-    # each inner_lists and right aligned with the col_width value
-
+    # each inner_lists and right aligned with the col_width value.
+    # A space was added to both sides of each word to create column spaces.
     for each_word in range(len(table[0])):
         new_row = ''
         for inner_list in range(len(table)):
