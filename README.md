@@ -24,3 +24,5 @@ Below are my solutions for the practice projects at the end of each chapter.
   - [Inventory](./projects/inventory.py)
 - Chapter 06 - Manipulating Strings
   - [Project: Password Locker](/projects/pw.py)
+  - [Project: Adding Bullets to Wiki Markup](bullet-point-adder.py)
+  - [Table Printer](./projects/table-printer.py)
