@@ -12,17 +12,22 @@ Excerpt from the book:
 
 ---
 
-Below are my solutions for the practice projects at the end of each chapter.
+Below are my solutions for the projects found in the chapters.
 
-- Chapter 03 - Functions
-  - [The Collatz Sequence](./projects/collatz.py)
-  - [The Collatz Sequence with `try` and `except`](./projects/collatz-exception.py)
-- Chapter 04 - Lists
-  - [Comma Code](./projects/comma-code.py)
-  - [Picture Grid](./projects/picture-grid.py)
-- Chapter 05 - Dictionaries and Structuring Data
-  - [Inventory](./projects/inventory.py)
-- Chapter 06 - Manipulating Strings
-  - [Project: Password Locker](./projects/pw.py)
-  - [Project: Adding Bullets to Wiki Markup](./projects/bullet-point-adder.py)
-  - [Table Printer](./projects/table-printer.py)
+Chapter 03 - Functions
+- [The Collatz Sequence](./projects/collatz.py)
+- [The Collatz Sequence with `try` and `except`](./projects/collatz-exception.py)
+  
+Chapter 04 - Lists
+- [Comma Code](./projects/comma-code.py)
+- [Picture Grid](./projects/picture-grid.py)
+  
+Chapter 05 - Dictionaries and Structuring Data
+- [Inventory](./projects/inventory.py)
+  
+Chapter 06 - Manipulating Strings
+- [Password Locker](./projects/pw.py)
+- [Adding Bullets to Wiki Markup](./projects/bullet-point-adder.py)
+- [Table Printer](./projects/table-printer.py)
+  
+Chapter 07 - Pattern Matching with Regular Expressions
