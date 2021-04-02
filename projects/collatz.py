@@ -7,7 +7,6 @@
 # this value. If number is odd, then collatz() should print and return
 # 3 * number + 1.
 
-
 def collatz(number):
     if number % 2 == 0:
         print(number // 2)
@@ -16,7 +15,6 @@ def collatz(number):
         print(3 * number + 1)
         return 3 * number + 1
     return
-
 
 # Then write a program that lets the user type in an integer and that
 # keeps calling collatz() on that number until the function returns the
@@ -28,7 +26,6 @@ def collatz(number):
 
 # Remember to convert the return value from input() to an integer with
 # the int() function otherwise, it will be a string value.
-
 
 n = input('Enter a number: ')
 while n != 1:

@@ -12,7 +12,6 @@ spam = ["apples", "bananas", "tofu", "cats"]
 # would return 'apples, bananas, tofu, and cats'. But your function should be
 # able to work with any list value passed to it.
 
-
 def string(list):
     output = ""
     for i in range(len(list)):
