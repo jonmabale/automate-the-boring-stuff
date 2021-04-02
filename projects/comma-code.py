@@ -4,7 +4,7 @@
 
 # Say you have a list value like this:
 
-spam = ['apples', 'bananas', 'tofu', 'cats']
+spam = ["apples", "bananas", "tofu", "cats"]
 
 # Write a function that takes a list value as an argument and returns a string
 # with all the items separated by a comma and a space, with and inserted before
@@ -14,12 +14,12 @@ spam = ['apples', 'bananas', 'tofu', 'cats']
 
 
 def string(list):
-    output = ''
+    output = ""
     for i in range(len(list)):
         if i == (len(list) - 1):
-            output += 'and ' + list[i]
+            output += "and " + list[i]
         else:
-            output += list[i] + ', '
+            output += list[i] + ", "
     return output
 
 
